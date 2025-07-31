@@ -1,4 +1,4 @@
-# Qoding-in-C
+# Basic-Qoding-in-C
 first repo with C programmes
 <meta name="author" value="kushagra awasthi>
 <p>this repository provides beginner friendly  C Programmes</p>
